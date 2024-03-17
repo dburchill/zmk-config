@@ -59,7 +59,7 @@
 //                    | __        |  __        |  __        |           |      |  __      |  __     |  __     |
     bindings = <
    &trans    &kp AMPS  &kp STAR     &kp MINUS    &kp GT       &kp N5      /**/  &kp  N6    &kp N7    &kp N8    &kp N9     &kp N0   &trans
-   &kp LBRC  &kp LPAR  &kp LBRC     &kp RBRC     &kp RPAR     &kp RBRC    /**/  &kp LEFT   &kp DOWN  &kp UP    &kp RIGHT  &kp F11  &kp F12
+   &kp LBRC  &kp LPAR  &kp LBKT     &kp RBKT     &kp RPAR     &kp RBRC    /**/  &kp LEFT   &kp DOWN  &kp UP    &kp RIGHT  &kp F11  &kp F12
    &trans    &kp BSLH  &kp PIPE     &kp EQUAL    &kp PLUS     &kp FSLH    /**/  &trans     &trans    &trans    &trans     &trans   &trans
                                     &trans       &trans       &trans      /**/  &trans     &trans    &trans
                         >;
