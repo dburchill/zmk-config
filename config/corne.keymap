@@ -11,8 +11,8 @@
 #define DEFAULT 0
 #define NUMB    1
 #define SYMB    2
-#define RAISE   4
-#define BTLAYER 8
+#define RAISE   3
+#define BTLAYER 4
 
 
 / {
